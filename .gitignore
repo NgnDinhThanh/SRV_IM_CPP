@@ -76,5 +76,6 @@ UpgradeLog*.htm
 Setup*.log
 .vscode
 /output
+/string/output
 
 
