@@ -77,5 +77,6 @@ Setup*.log
 .vscode
 /output
 /string/output
+/backtracking/output
 
 
