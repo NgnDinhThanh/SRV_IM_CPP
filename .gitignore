@@ -77,7 +77,7 @@ Setup*.log
 .vscode
 /output
 /string/output
+/branch_and_bound/output
 /dynamic_programming/output
-
 
 
