@@ -79,5 +79,6 @@ Setup*.log
 /string/output
 /branch_and_bound/output
 /dynamic_programming/output
+/demo_test/output
 
 
